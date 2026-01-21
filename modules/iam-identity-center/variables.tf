@@ -1,0 +1,4 @@
+variable sso_account_id
+variable sso_region
+variable environment
+variable project_name
